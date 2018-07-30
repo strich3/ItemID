@@ -1,6 +1,5 @@
 name: ITEMID
 author: Syams255
 version: 1.0.0[S255][S255]
-api: [3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9]
+api: [3.0.0, 3.0.0-ALPHA12, 4.0.0]
 main: Syams255\ItemID
-website: github.com/Syams225/ItemID
