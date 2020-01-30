@@ -8,11 +8,11 @@ use pocketmine\event\player\PlayerItemHeldEvent;
 
 class ItemID extends PluginBase implements Listener {
 
-        public $slogan = "[ITEM ID]";
+        public $slogan = "§aItem§eID";
         
 	public function onEnable()
 	{
-		  $this->getLogger()->info("ItemID By KaitoDoDo");
+		  $this->getLogger()->info("ItemID By strich 3");
                   $this->getServer()->getPluginManager()->registerEvents($this ,$this);
         }
         
